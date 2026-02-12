@@ -1,0 +1,21 @@
+# Build artifacts
+/target
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Debug/temp files
+errors.txt
+*.log
+
+# Gemini agent artifacts
+.gemini/

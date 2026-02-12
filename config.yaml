@@ -1,0 +1,32 @@
+# LockSearch Configuration
+# Edit this file to customize the launcher
+
+# Window settings
+window_width: 500.0
+window_height: 500.0
+
+# Icon sizes (in pixels)
+search_icon_size: 18
+program_icon_size: 42
+
+# Maximum search results to display
+max_results: 10
+
+# Theme colors (hex format)
+theme:
+  background: "#1B1F28"
+  panel: "#222733"
+  accent: "#7A5CCB"
+  selected: "#2E3546"
+
+# Additional directories to index (besides Start Menu and Program Files)
+extra_index_paths: []
+
+# Directories to exclude from indexing
+exclude_paths: []
+
+# Initial sort order for program list: "alphabetical" or "random"
+initial_sort: "alphabetical"
+
+# Cache the program index for instant startup (true/false)
+enable_cache: true
