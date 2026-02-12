@@ -1,6 +1,6 @@
 # LockSearch
 
-A fast, sleek Windows program launcher built with Rust and [iced](https://iced.rs). LockSearch indexes your installed programs and provides instant fuzzy search — think Spotlight for Windows, but lightweight and customizable.
+A fast, sleek Windows program launcher built with Rust and [iced](https://iced.rs). LockSearch indexes your installed programs and provides instant fuzzy search. It's like Spotlight for Windows, but lightweight and customizable.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
