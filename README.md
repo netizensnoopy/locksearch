@@ -28,7 +28,7 @@ A fast, sleek Windows program launcher built with Rust and [iced](https://iced.r
 ### Build from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/locksearch.git
+git clone https://github.com/netizen-snoopy/locksearch.git
 cd locksearch
 cargo build --release
 ```
