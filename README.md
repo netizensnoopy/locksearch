@@ -24,6 +24,7 @@ A fast, sleek Windows program launcher built with Rust and [iced](https://iced.r
 
 - [Rust](https://www.rust-lang.org/tools/install) (1.70+)
 - Windows 10/11
+- Git
 
 ### Build from source
 
